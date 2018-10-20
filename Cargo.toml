@@ -1,6 +1,6 @@
 [package]
 name = "tokio-icmp"
-description = "tokio-aware IPPROTO_CIMP socket implementaion"
+description = "tokio aware IPPROTO_ICMP socket implementaion"
 license = "MIT"
 version = "0.1.0"
 authors = ["0xd34d10cc <0xd34d10cc@gmail.com>"]
