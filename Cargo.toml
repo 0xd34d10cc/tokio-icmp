@@ -1,0 +1,12 @@
+[package]
+name = "tokio-icmp"
+version = "0.1.0"
+authors = ["0xd34d10cc <0xd34d10cc@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+socket2 = "0.3.0"
+pnet_packet = "0.21.0"
+futures = "0.1.0"
+tokio = "0.1.0"
+mio = "0.6.0"
